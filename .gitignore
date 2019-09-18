@@ -1,0 +1,5 @@
+#not copy executed vagrant files
+**.vagrant
+**ansible/.vagrant
+**chef/.vagrant
+**/.vagrant
